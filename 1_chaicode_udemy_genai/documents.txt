@@ -1,0 +1,4 @@
+Need to create readonly menu 
+1. /menu (GET) - List all menu
+2. /menu?category=chai (GET) - Filter by category
+3. /menu/id (GET) - Single Item
