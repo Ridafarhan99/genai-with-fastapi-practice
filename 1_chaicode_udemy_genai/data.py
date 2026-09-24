@@ -1,5 +1,5 @@
 # separation of concerns
-menu_item = [
+menu_items = [
     {
         "id": 1,
         "name": "Masala Chai",
@@ -9,9 +9,9 @@ menu_item = [
         "available": True,
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "Masala Chai",
-        "category": "Chai",
+        "category": "tea",
         "description": "Indian Tea",
         "price": 20,
         "available": True,
